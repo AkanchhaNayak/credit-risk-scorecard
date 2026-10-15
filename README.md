@@ -42,13 +42,13 @@ Visualisation: Power BI
 
 The credit risk scorecard achieved the following reported evaluation results:
 
-**Metric**                           **Result**
+**Metric** - **Result**
 
-ROC-AUC -                                0.85
+ROC-AUC -                                  0.85
 
-Gini Coefficient                         0.70
+Gini Coefficient -                         0.70
 
-KS Statistic                             0.54
+KS Statistic -                             0.54
 
 These metrics summarise the model's ability to distinguish between borrowers with different default-risk outcomes.
 
