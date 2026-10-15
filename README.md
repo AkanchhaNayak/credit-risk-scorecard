@@ -6,6 +6,17 @@ A credit risk analytics project combining Python-based credit scorecard modellin
 
 This project analyses retail loan data to develop a credit risk scorecard and translate model outputs into portfolio-level insights. It demonstrates the application of statistical modelling, feature engineering, model evaluation, and business intelligence in credit risk management.
 
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](executive_summary.png.jpeg)
+
+### Risk Segmentation
+![Risk Segmentation](risk_segmentation.png.jpeg)
+
+### Model Performance
+![Model Performance](model_performance.png.jpeg)
+
 **Objectives**
 
 Develop a credit risk scorecard to assess borrower default risk.
