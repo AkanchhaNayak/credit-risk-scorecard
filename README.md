@@ -1,12 +1,12 @@
-Credit Risk Scorecard & Dashboard – Retail Banking
+**Credit Risk Scorecard & Dashboard – Retail Banking**
 
 A credit risk analytics project combining Python-based credit scorecard modelling with an interactive Power BI dashboard to support retail lending risk assessment.
 
-Project Overview
+**Project Overview**
 
 This project analyses retail loan data to develop a credit risk scorecard and translate model outputs into portfolio-level insights. It demonstrates the application of statistical modelling, feature engineering, model evaluation, and business intelligence in credit risk management.
 
-Objectives
+**Objectives**
 
 Develop a credit risk scorecard to assess borrower default risk.
 
@@ -16,7 +16,7 @@ Evaluate model discrimination using standard classification metrics.
 
 Visualise credit risk patterns and portfolio segments through Power BI.
 
-Tools & Technologies
+**Tools & Technologies**
 
 Programming: Python, SQL
 
@@ -26,51 +26,43 @@ Modelling: Logistic Regression, WoE/IV
 
 Visualisation: Power BI
 
-Methodology
+**Methodology**
 
-Data Preparation: Clean and prepare the retail loan dataset for analysis.
+**Data Preparation:** Clean and prepare the retail loan dataset for analysis.
 
-Feature Engineering: Use WoE transformation and IV-based feature selection.
+**Feature Engineering:** Use WoE transformation and IV-based feature selection.
 
-Model Development: Build a logistic regression credit risk scorecard.
+**Model Development:** Build a logistic regression credit risk scorecard.
 
-Model Evaluation: Assess predictive discrimination using AUC, Gini, and Kolmogorov–Smirnov (KS) statistics.
+**Model Evaluation:** Assess predictive discrimination using AUC, Gini, and Kolmogorov–Smirnov (KS) statistics.
 
-Dashboard Development: Present model outputs and portfolio risk segments through Power BI visualisations.
+**Dashboard Development:** Present model outputs and portfolio risk segments through Power BI visualisations.
 
-Model Performance
+**Model Performance**
 
 The credit risk scorecard achieved the following reported evaluation results:
 
-Metric
+**Metric  **                          **Result**
 
-Result
+ROC-AUC                                  0.85
 
-ROC-AUC
+Gini Coefficient                         0.70
 
-0.85
-
-Gini Coefficient
-
-0.70
-
-KS Statistic
-
-0.54
+KS Statistic                             0.54
 
 These metrics summarise the model's ability to distinguish between borrowers with different default-risk outcomes.
 
-Project Files
+**Project Files**
 
 Jupyter Notebook (.ipynb): Python analysis, feature engineering, and credit risk modelling.
 
 Power BI Dashboard (.pbix): Interactive reporting and visualisation of credit risk insights.
 
-Key Skills Demonstrated
+**Key Skills Demonstrated**
 
 Credit Risk Analytics · Logistic Regression · WoE/IV · Model Performance Evaluation · Python · SQL · Power BI · Data Visualisation
 
-How to Explore
+**How to Explore**
 
 Open the Jupyter Notebook using Jupyter Notebook or Google Colab.
 
@@ -78,6 +70,6 @@ Download the Power BI file and open it in Power BI Desktop.
 
 Explore the analysis, model evaluation, and dashboard visualisations.
 
-Disclaimer
+**Disclaimer**
 
 This project is intended for educational and portfolio purposes. Model outputs should not be used for actual lending decisions without appropriate validation, governance, and assessment of data suitability.
